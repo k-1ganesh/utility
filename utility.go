@@ -1,5 +1,5 @@
 package utility 
 
-func square(num int) int {
+func Square(num int) int {
 	return num * num 
 }
